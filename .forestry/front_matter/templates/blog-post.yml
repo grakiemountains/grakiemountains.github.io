@@ -11,3 +11,4 @@ fields:
 - type: textarea
   name: coverImage
   label: coverImage
+  description: Link to the image to use as the post's cover
