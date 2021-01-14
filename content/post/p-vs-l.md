@@ -1,10 +1,10 @@
 ---
-title: "P vs. L"
-date: 2020-10-02T13:06:58-06:00
-draft: false
+title: P vs. L
+date: 2020-10-02T13:06:58.000-06:00
 coverImage: https://im.vsco.co/aws-us-west-2/2f1cd3/136608411/5f1ce14f513a0c61000d5817/vsco5f1ce15cbfc3f.jpg?w=554&dpr=2
----
+draft: true
 
+---
 # Chapter One
 With my father’s word’s still ringing in my ears, I stormed up the stairs. I knew my dreams weren’t regular, not by anyone in our side of New York's standards, but it still stung to hear it from my own dad. Was it really so strange to wish for something more than a husband and kids? I just wanted to go out, explore the world before I’m housebound forever. Our country was changing so fast, and I wanted to see it first hand, but I knew my father would never approve. I’m confident that I am capable of so much more; back before it was deemed “inappropriate” I used to help Draco with his business duties all the time. When we were younger, we were practically attached at the hip. We would sit and play in father’s office for hours while learning about the family’s prosperous tea trading business. Now I’m stuck at home being told to sit still and look pretty until dad can find me a suitable husband. Meanwhile, Draco gets to go off into the city everyday and train to take over the business. We used to go on so many adventures together, but recently it’s like I don’t even know him. He’s become so obsessed with father’s opinion that he’s practically become him; cold, uncaring, and cruel.
 
