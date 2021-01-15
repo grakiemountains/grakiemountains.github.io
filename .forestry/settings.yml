@@ -16,6 +16,10 @@ sections:
   match: "**/*"
   templates:
   - blog-post
+- type: document
+  path: config.toml
+  label: Config
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
