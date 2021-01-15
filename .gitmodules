@@ -1,12 +1,3 @@
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod
 [submodule "themes/tranquilpeak"]
 	path = themes/tranquilpeak
 	url = https://github.com/kakawait/hugo-tranquilpeak-theme
-[submodule "themes/novela"]
-	path = themes/novela
-	url = https://github.com/forestryio/hugo-theme-novela
-[submodule "themes/novela-mod"]
-	path = themes/novela-mod
-	url = https://github.com/ryanjbartley/gphugo-novela-mod
