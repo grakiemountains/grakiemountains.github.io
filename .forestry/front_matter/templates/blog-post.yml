@@ -8,9 +8,17 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
 - type: textarea
   name: coverImage
-  label: coverImage
   description: Link to the image to use as the post's cover
+  label: cover image
 pages:
 - content/post/mucking-around.md
